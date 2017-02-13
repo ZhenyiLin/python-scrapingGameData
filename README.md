@@ -7,7 +7,7 @@ Scraping data in more than 30 game platforms, which includes: PS, PS2, PS3, PS4,
 Run 'href_generator_v4.py' to generate game htmls in each platform. The htmls file will be saved under './html/' directory.
 
 ### Part II: parse game data ###
-Run 'parse_v6.py', which read previous game htmls and scrape data, save game data into csv file under './data/' directory.
+Run 'parse_v6.py', which read previous game htmls and scrape and save game data into csv files under './data/' directory.
 
 ### The scraped game data ###
 Below lists main items in the scraped data:
