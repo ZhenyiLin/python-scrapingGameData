@@ -11,17 +11,17 @@ Run 'parse_v6.py', which read previous game htmls and scrape data, save game dat
 
 ### The scraped game data ###
 Below lists main items in the scraped data:
-- title: game title
-- description: game description
-- releaseDate: game released data, including new coming game marked as 'TBA'
-- category: game category and subcategories
-- platform: game platform
-- playTime: the statistics of playTime for each game
-- difficulty: the statistics of difficulty for each game
-- play: the statistics of play progress for each game
-- ownership: the statistics of ownership for each game
-- star: the statistics of user rating for each game (1 - 5 stars)
-- critic: the averaged score of critic reviews for each game
-- reviews: the total number of user reviews for each game 
+- Title: game title
+- Description: game description
+- ReleaseDate: game released data, including new coming game marked as 'TBA'
+- Category: game category and subcategories
+- Platform: game platform
+- PlayTime: the statistics of playTime for each game
+- Difficulty: the statistics of difficulty for each game
+- Play: the statistics of play progress for each game
+- Ownership: the statistics of ownership for each game
+- Star: the statistics of user rating for each game (1 - 5 stars)
+- Critic: the averaged score of critic reviews for each game
+- Reviews: the total number of user reviews for each game 
 
 
